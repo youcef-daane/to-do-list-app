@@ -13,3 +13,5 @@ Technologies Used:
     React for the frontend framework.
     Tailwind CSS for styling.
     React Hooks (useState) for state management.
+
+![Screenshot](screenshot/screen.png)
