@@ -14,4 +14,4 @@ Technologies Used:
     Tailwind CSS for styling.
     React Hooks (useState) for state management.
 
-![Screenshot](screenshot/screen.png)
+![ To do list Screenshot](screenshot/screen.png)
